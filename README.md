@@ -8,7 +8,8 @@
 
 -   ❤️ I love writing TypeScript, and building fun experiments on type-level
 
--   💬 Ask me about anything [here](https://github.com/Fadhli-Ardiansyah/Fadhli-Ardiansyah/issues)
+-   💬 Ask me about anything [here](https://fadhliardiansyah.vercel.app
+  
 
   <a href="https://instagram.com/_fdh7xx.py">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="33" alt="instagram logo"  />
