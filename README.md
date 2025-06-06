@@ -8,7 +8,7 @@
 
 -   ❤️ I love writing TypeScript, and building fun experiments on type-level
 
--   💬 Ask me about anything [here](https://fadhliardiansyah.vercel.app
+-   💬 Ask me about anything [here](https://fadhliardiansyah.vercel.app)
   
 
   <a href="https://instagram.com/_fdh7xx.py">
